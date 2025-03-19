@@ -1,6 +1,7 @@
 # MyTodo
 
 MyTodo は、シンプルなiOSのTodoリストアプリです。このアプリは日々のタスク管理を簡単に行うことができます。
+![image](https://github.com/user-attachments/assets/4339dc26-51eb-4e14-bb82-8c1bf086015c)
 
 ## 概要
 
